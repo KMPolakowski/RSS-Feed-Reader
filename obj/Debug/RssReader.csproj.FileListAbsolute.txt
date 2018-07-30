@@ -1,0 +1,14 @@
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\bin\Debug\RssReader.exe.config
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\bin\Debug\RssReader.exe
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\bin\Debug\RssReader.pdb
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\RssReader.csprojResolveAssemblyReference.cache
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\MainWindow.g.cs
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\App.g.cs
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\RssReader_MarkupCompile.cache
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\RssReader_MarkupCompile.lref
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\MainWindow.baml
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\RssReader.g.resources
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\RssReader.Properties.Resources.resources
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\RssReader.csproj.GenerateResource.Cache
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\RssReader.exe
+C:\Users\Deus Vult\Documents\POS\RssReader20180313\RssReader\RssReader\obj\Debug\RssReader.pdb
